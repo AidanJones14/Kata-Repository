@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.chatbot.project","l":"BotAuth"},{"p":"com.chatbot.project","l":"Chatbot"},{"p":"com.chatbot.project","l":"Main"}];updateSearchResults();
