@@ -1,0 +1,1 @@
+This project utilizes the Dialogflow REST API to enable a chatbot that assists users with various booking services, such as restaurant reservations and hotel bookings. The model is not trained to complete any fulfillment requests, but is primarily a mock-up that simulates the user's ability to reserve a table or find hotel listings.
