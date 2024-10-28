@@ -1,0 +1,21 @@
+# Maven target folder
+target/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
+# Maven dependency reduction
+dependency-reduced-pom.xml
