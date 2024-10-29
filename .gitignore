@@ -1,6 +1,9 @@
 # Maven target folder
 target/
 
+#chatbot key
+src/main/resources/key
+
 # IDE settings
 .vscode/
 .idea/
