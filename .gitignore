@@ -2,7 +2,7 @@
 target/
 
 #chatbot key
-src/main/resources/key
+src/main/resources/key/chatbot-key.json
 
 # IDE settings
 .vscode/
