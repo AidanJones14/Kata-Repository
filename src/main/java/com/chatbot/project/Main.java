@@ -71,7 +71,7 @@ public class Main {
         try{
             client = BotAuth.createSessionsClient( path );
         } catch( IOException e ) {
-          System.out.printf("\nIssue creating session using path: %s\n Error: ", path, e.getMessage());
+          System.out.printf("\nIssue creating session using path: %s\n", path);
           System.exit( 1 );
         }
         
